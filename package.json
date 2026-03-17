@@ -1,0 +1,17 @@
+{
+  "name": "player-arcade-app",
+  "version": "1.0.0",
+  "description": "Arcade game player with controller mapping support",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^3.87.0"
+  },
+  "devDependencies": {
+    "vite": "^7.1.12"
+  }
+}

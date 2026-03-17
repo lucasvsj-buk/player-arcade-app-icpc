@@ -1,0 +1,5 @@
+{
+  "game_name": "Nim Masters",
+  "description": "Strategic stone-taking game of Nim! Choose a pile, remove stones, and force your opponent into an empty board. Play vs CPU or a friend!",
+  "author": "SebastianMestre"
+}
